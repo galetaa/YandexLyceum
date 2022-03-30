@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div>
+    <h3>{{ data["name"] }}</h3>
+    <img src={{ data["photo"] }} width="200" height="300">
+    <p>{{ data["profession"] }}</p>
+</div>
+{% endblock %}

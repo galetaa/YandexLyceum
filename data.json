@@ -1,0 +1,29 @@
+{
+    "crew": [
+        {
+            "name": "Ник Вульвс",
+            "profession": "Инженер",
+            "photo": "/static/img/astro1.png"
+        },
+        {
+            "name": "Адам Сильвер",
+            "profession": "Учёный",
+            "photo": "/static/img/astro2.png"
+        },
+        {
+            "name": "Яннис Дон",
+            "profession": "Архитектор",
+            "photo": "/static/img/astro3.png"
+        },
+        {
+            "name": "Альберт Джордж",
+            "profession": "Врач",
+            "photo": "/static/img/astro4.png"
+        },
+        {
+            "name": "Бобан Богданович",
+            "profession": "Воин",
+            "photo": "/static/img/astro5.png"
+        }
+    ]
+}
